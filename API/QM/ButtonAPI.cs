@@ -9,7 +9,7 @@ namespace Eclipse.API.QM
     public class ButtonAPI
     {
         // This API was created by c1tiz3n. https://github.com/c1tiz3n
-        // With help and support from nitro and some others, thanks.
+        // With help and support from nitro, xavi and some others, thanks.
         public const string Identifier = "eclipse";
 
         public static List<SingleButton> allQMSingleButtons = new();
