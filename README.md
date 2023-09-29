@@ -1,4 +1,2 @@
 # cButton-API
-An old VRChat UI API i created to aid with a few projects. Would have released with Eclipse, but then EAC came along.
-
-Fix it up for quest if you want, just credit me.
+An old VRChat UI API that allowed you to create your own menu's, buttons etc, as well as interact with the HUD, pre-EAC.
